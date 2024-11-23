@@ -1,5 +1,7 @@
 body {
   background-color: #f9f7fe;
+  max-width: 80%;
+  margin: 0 auto;
   font-family: Helvetica, Arial, sans-serif;
 }
 
